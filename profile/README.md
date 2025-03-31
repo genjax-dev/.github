@@ -1,3 +1,4 @@
-# probably-open
+# Hi there! 🎲
 
-Probabilistic programming on modern hardware.
+We develop:
+* [GenJAX] (An open-source probabilistic programming system with compilation to GPUs and TPUs).
